@@ -1,2 +1,2 @@
 # iOS-Unit-Converter-App
-Tutorial : iOS Unit Converter Application
+iOS Unit Converter Application
